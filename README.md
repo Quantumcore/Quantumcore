@@ -1,10 +1,8 @@
-
-
-
-### Hi there 👋
-My name is Fahad, Nice to meet you!
-- 🔭 Computer Science, Physics, Mathematics, AI, Cyber Security. :heart:
-- 🌐 I can Code in C,C++, Python, PHP, Java, JavaScript and Ruby.
-- 🌱 I’m currently learning Artificial Intelligence.
-- 📫 The best way to reach me is through [Discord](https://discordapp.com/invite/8snh7nx) or [Email](mailto://quantumcore@protonmail.com).
-- ⚡ Fun fact: I'm also a hobbyist magician.
+## Hi there :wave:
+My name is Fahad. I'm a Freelance DevOps Security Professional, Programmer, Visual Effects Artist and Film Maker.
+- 🔭 I’m currently Learning Artificial Intelligence. 
+- 💬 Ask me about Physics, Mathematics and Cyber Security.
+- 📫 How to reach me: quantumcore@protonmail.com or [Join my Discord Server](https://discordapp.com/invite/8snh7nx). I'm very easy to get in touch with.
+- 🔹 I can code in C/C++, Python, Java and PHP.
+- 🌐 **On the Internet** : [Website](https://quantumcored.com), [YouTube](https://www.youtube.com/channel/UC8gkUsg4SvT-ApsRK2DVYXg).
+- ⚡ Fun fact: I'm also a hobbyist magician. 🎩 :shipit:
