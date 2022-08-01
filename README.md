@@ -1,5 +1,5 @@
 ## Hi there :wave:
-My name is Fahad. I'm a Penetration Tester, DevOps Security Professiona and Programmer.
+My name is Fahad. I'm a Penetration Tester, DevOps Security Professional and Programmer.
 - 🔭 I’m currently Learning Artificial Intelligence. 
 - 💬 Ask me about Physics, Mathematics and Cyber Security.
 - 📫 How to reach me: quantumcore@protonmail.com or [Join my Discord Server](https://discordapp.com/invite/8snh7nx). I'm very easy to get in touch with.
